@@ -4,7 +4,7 @@
 
 Olá, eu me chamo Pedro, tenho 26 anos e estou em transição de carreira. Sou técnico em Informática e cursei bacharelado em Biomedicina até o 7º período quando senti o desejo de retornar ao universo da tecnologia. Meu primeiro contato com programação foi durante a minha formação técnica em Informática. Na ocasião estudei lógica de programação, programação orientada a objetos, banco de dados relacional e desenvolvimento web. As principais tecnologias utilizadas foram Java, MySQL, HTML 5 e CSS 3.
 
-Atualmente aspiro a uma vaga no curso bacharelado em Tecnologia da Informação na Universidade Federal do Rio Grande do Norte (UFRN).
+Atualmente estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas no [IFRN](https://portal.ifrn.edu.br/).
 
 Meu objetivo é me tornar um Dev FullStack.
 

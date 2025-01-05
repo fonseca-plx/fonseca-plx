@@ -1,6 +1,6 @@
 # Hello, welcome to my GitHub! 👋
 
-Brazilian, 27 years old. Undergraduate in Systems Analysis and Development and Computer technician at [IFRN - Instituto Federal do Rio Grande do Norte](https://portal.ifrn.edu.br/)
+Brazilian, 27 years old. Undergraduate in Systems Analysis and Development and Computer technician at [IFRN](https://portal.ifrn.edu.br/)
 
 > I'm currently learning OOP with Java and C++
 

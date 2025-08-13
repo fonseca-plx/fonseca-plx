@@ -6,7 +6,7 @@
 - :mortar_board: Undergraduate in Systems Analysis and Development and Computer technician at [IFRN](https://portal.ifrn.edu.br/)
 
 ## 🎮 Tools and Technologies
-<img src="https://skillicons.dev/icons?i=django,python,html,css,js,ts,react,next,bootstrap,java,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,python,html,css,js,ts,react,bootstrap,java,postgres,docker" />
 
 ## 📊 GitHub Stats
 <div>  
